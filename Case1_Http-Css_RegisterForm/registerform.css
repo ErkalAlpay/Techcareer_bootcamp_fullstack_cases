@@ -1,0 +1,109 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+
+}
+
+html{
+    
+
+
+
+}
+
+body{
+    padding-top: 5%;
+    padding-left: 35%;
+    background-color: blueviolet;
+    
+
+}
+
+
+h3{
+    padding-top: 3%;
+    padding-left: 35%;
+
+}
+
+
+.label1{
+    padding-left: 38%;
+
+}
+
+.container_data{
+    width: 30%;
+    height: 58%;
+    position: absolute;
+    padding-left: 3.4%;
+    border: 0.5px solid;
+    border-radius:10px;
+    background-color:white;
+    
+    
+
+    
+
+}
+
+.input_data_span{
+    padding-left: 25px;
+    height: 60px;
+    width: 44%;
+    background-color:rgb(228, 221, 221)
+        
+    
+}
+.form_data_span2{
+    
+    padding-left: 10px;
+    
+}
+.input_data{
+    padding-left: 10%;
+    width: 90%;
+    height: 60px;
+    background-color:rgb(228, 221, 221)
+}
+
+.form_data_username{
+
+    padding-top: 25px;
+    
+    
+
+}
+.form_data_email{
+    padding-top: 25px;
+    
+
+}
+.form_data_password{
+    padding-top: 25px;
+    
+
+}
+
+.icon_data{
+    position: absolute;
+
+    padding-left: 20px;
+    padding-top: 25px;
+
+}
+
+.button_class{
+    text-align: center;
+    height: 50px;
+    width: 90%;
+    background-color:rgb(119, 159, 212)
+}
+.form-check-input{
+
+    border-color: rgb(39, 37, 37);
+
+}
