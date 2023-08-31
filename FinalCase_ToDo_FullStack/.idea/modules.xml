@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FinalCase_ToDo_FullStack.iml" filepath="$PROJECT_DIR$/.idea/FinalCase_ToDo_FullStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erkalalpay/erkalalpay.iml" filepath="$PROJECT_DIR$/erkalalpay/erkalalpay.iml" />
+    </modules>
+  </component>
+</project>
