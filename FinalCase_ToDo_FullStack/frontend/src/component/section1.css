@@ -1,0 +1,50 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+
+.baslik {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4%;
+
+
+}
+
+.span1 {
+
+    padding-left: 25%;
+    padding-right: 25%;
+    display: flex;
+    flex-direction: column;;
+    text-align: left;
+    height: 45px;
+
+
+
+
+}
+
+.button2 {
+    padding-left: 25%;
+    padding-right: 55%;
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+
+.button3 {
+    padding-left: 55%;
+    padding-right: 25%;
+    display: flex;
+    flex-direction: column;;
+}
