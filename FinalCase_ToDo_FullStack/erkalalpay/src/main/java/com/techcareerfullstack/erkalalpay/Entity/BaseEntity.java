@@ -8,7 +8,6 @@ import org.hibernate.annotations.CreationTimestamp;
 import java.util.Date;
 
 @MappedSuperclass
-@Entity
 @Data
 public abstract class BaseEntity {
 
@@ -22,6 +21,8 @@ public abstract class BaseEntity {
     @Temporal(TemporalType.TIMESTAMP)
     private Date creationTime;
 
+    @Temporal(TemporalType.TIMESTAMP)
+    private Date updatedTime;
 
 
 }
